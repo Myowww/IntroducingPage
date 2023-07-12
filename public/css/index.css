@@ -1,0 +1,65 @@
+.title-bar {
+  position: relative;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 40vh;
+  margin-bottom: 50vh;
+}
+
+
+#name {
+  color: #7aa2ff;
+  font-weight: 500;
+  font-size: 150%;
+}
+
+.infomation {
+  position: relative;
+  left: 15vh;
+  margin-bottom: 23px;
+}
+
+.team-list {
+  position: relative;
+  text-align: right;
+  right: 15vh;
+}
+
+.team-list-name {
+  font-size: 35px;
+  display: inline;
+  margin: 20px;
+  padding: 20px;
+  padding-left: 70px;
+  border: #3d3d3d;
+  background-color: #dae9ff;
+  border-radius: 10px;
+}
+
+
+.develop-list-name {
+  font-size: 35px;
+  display: inline;
+  margin-right: 20px;
+  padding: 20px;
+  padding-right: 20px;
+  border: #3d3d3d;
+  background-color: #dae9ff;
+  border-radius: 10px;
+  position: relative;
+  top: 15px;
+}
+
+
+.development {
+  position: relative;
+  text-align: left;
+  left: 15vh;
+}
+
+.contact {
+  position: relative;
+  float: right;
+  right: 15vh;
+  padding-bottom: 40vh;
+}
